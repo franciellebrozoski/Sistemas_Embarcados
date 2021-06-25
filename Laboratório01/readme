@@ -1,0 +1,8 @@
+//Sobre o laboratório 01.
+//Acabei me atrasando por ter enfrentado dificuldades com este laboratório e com o IAR e todas as configurações iniciais para colocar o laboratório em prática. 
+//além disso também não tinha experiência com o GitHub, então contei com ajuda de tutoriais e colegas para conseguir upar o lab01 aqui.
+//Sobre a atividade proposta em si é simples, pois trata apenas de mudar estado de um LED do microcontrolador, baseado no clock do processador, então através de um cálculo simples 
+//foi possível saber qual delay setar para que o led piscasse a cada 01 segundo. 
+//As dificuldades encontradas foram com as configurações iniciais dos softwares, diretórios, criação de projeto etc e o próprio git em que precisei instalar o Git Bash para subir arquivos
+//do pc. 
+//
